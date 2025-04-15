@@ -1,0 +1,22 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin
+      password: xx
+    user1:
+      email: user1@example.com
+      name: User1
+      password: xx
+    user2:
+      email: user2@example.com
+      name: User2
+      password: xx
+    test:
+      email: test@example.com
+      name: Test
+      password: xx
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name 
